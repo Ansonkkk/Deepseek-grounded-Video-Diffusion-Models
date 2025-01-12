@@ -1,5 +1,3 @@
-# Deepseek-grounded Video Diffusion Models
-
 # Deepseek-grounded Video Diffusion Models (DVD)
 The codebase is based on [LLM-grounded Video Diffusion (LVD)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion) repo, so please also check out the instructions and FAQs there if your issues are not covered in this repo.
 

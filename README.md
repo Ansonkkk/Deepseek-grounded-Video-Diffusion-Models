@@ -1,3 +1,4 @@
+This project is **solely intended as a final project repository for the 22-SCNU Deep Learning course**, aimed at assisting students in learning and practicing deep learning-related technologies and tools. All code, models, data, and related content in this project are **for educational and research purposes only** and shall not be used for any commercial purposes or other unauthorized uses.
 # Deepseek-grounded Video Diffusion Models (DVD)
 The codebase is based on [LLM-grounded Video Diffusion (LVD)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion) repo, so please also check out the instructions and FAQs there if your issues are not covered in this repo.
 
